@@ -1,6 +1,6 @@
 # CVE Exploit DB
 
-A Repository for a bunch of Test, Payload and Exploit done for different CVE.
+A Repository for a bunch of Test, Payload and Exploits done for different CVE.
 
 
 ## Colavorators:
