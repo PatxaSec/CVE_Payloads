@@ -1,4 +1,4 @@
-# CVE Exploit DB
+# CVE Exploits 4 All
 
 A Repository for a bunch of Test, Payload and Exploits done for different CVE.
 
